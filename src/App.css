@@ -1,0 +1,14 @@
+body{
+    color: rgb(220, 228, 228);
+    background-color: rgb(29, 29, 29);
+}
+.input:nth-child(1){
+    margin-right: 5px;
+    width: 75%;
+}
+.input:nth-child(2){
+    background-color: rebeccapurple;
+}
+.card{
+    background-color: rgb(15, 15, 15);
+}
